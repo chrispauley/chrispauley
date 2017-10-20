@@ -12,3 +12,8 @@ This is a viewer application.
 This is a viewer application.
 * Repo: [https://github.com/chrispauley/hros_common](https://github.com/chrispauley/hros_common)
 * GitHub.io: [https://chrispauley.github.io/hros_common/](https://chrispauley.github.io/hros_common/)
+
+
+## Java JDBCRealm Authentication
+Java user registration web application supporting JDBCRealm authorization.
+* Repo: [https://github.com/chrispauley/registration-jdbcrealm](https://github.com/chrispauley/registration-jdbcrealm)

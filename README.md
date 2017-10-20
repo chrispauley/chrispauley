@@ -42,22 +42,22 @@ This is a classroom project repo.
 
 ## Django Web Application in a Docker Container
 This sample project is a Python/Django Web Application.
-# Repo: [https://github.com/chrispauley/docker_django](https://github.com/chrispauley/docker_django)
+* Repo: [https://github.com/chrispauley/docker_django](https://github.com/chrispauley/docker_django)
 * Site: (Sorry, I took the AWS instance down.)
 
 ## Node Express Web Application in a Docker Container
 This sample project is a 'hello world' web application for Nodejs Express.
-# Repo: [https://github.com/chrispauley/docker-express](https://github.com/chrispauley/docker-express)
+* Repo: [https://github.com/chrispauley/docker-express](https://github.com/chrispauley/docker-express)
 * Site: (Sorry, I took the AWS instance down.)
 
 ## nginx proxy server in a Docker Container
 This is a sample project for the use of nginx as a proxy server.
-# Repo: [https://github.com/chrispauley/nginxproxy-nodejs](https://github.com/chrispauley/nginxproxy-nodejs)
+* Repo: [https://github.com/chrispauley/nginxproxy-nodejs](https://github.com/chrispauley/nginxproxy-nodejs)
 
 
 ## Project docker_pi_node
 This is a base setup for a Docker image for an ARM implementation which includes a specific build for Node. This is intended to run on a Raspberry Pi.
-# Repo: [https://github.com/chrispauley/docker_pi_node](https://github.com/chrispauley/docker_pi_node)
+* Repo: [https://github.com/chrispauley/docker_pi_node](https://github.com/chrispauley/docker_pi_node)
 
 
 ## HROS Schema Tester Using Webpack

@@ -14,6 +14,11 @@ This is a viewer application.
 * GitHub.io: [https://chrispauley.github.io/hros_common/](https://chrispauley.github.io/hros_common/)
 
 
+## Fullstack React MongoDB
+Project built in a class.
+* Repo: [https://github.com/chrispauley/fullstack-react-mongodb](https://github.com/chrispauley/fullstack-react-mongodb)
+
+
 ## Java JDBCRealm Authentication
 Java user registration web application supporting JDBCRealm authorization.
 * Repo: [https://github.com/chrispauley/registration-jdbcrealm](https://github.com/chrispauley/registration-jdbcrealm)

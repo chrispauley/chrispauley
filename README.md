@@ -1,15 +1,24 @@
 # chrispauley
 
+
+
 Here are some sample projects for review.
 
+
+## Up and Running with Redux Observable
+Project built in a class.
+* Repo: [https://github.com/chrispauley/redux-obs](https://github.com/chrispauley/redux-obs)
+* GitHub.io: [https://chrispauley.github.io/redux-obs/](https://chrispauley.github.io/redux-obs/)
+
+
 ## HROS Recruiting
-This is a viewer application.
+This is a viewer application. It allow one to view json data instances of the HR Open Standards Recruiting Specification in a web page. It supports drag and drop.
 * Repo: [https://github.com/chrispauley/hros_recruiting](https://github.com/chrispauley/hros_recruiting)
 * GitHub.io: [https://chrispauley.github.io/hros_recruiting/](https://chrispauley.github.io/hros_recruiting/)
 
 
 ## HROS Common
-This is a viewer application.
+This is a viewer application. It allow one to view json data instances of the HR Open Standards Common  Data Type Specification in a web page. It supports drag and drop.
 * Repo: [https://github.com/chrispauley/hros_common](https://github.com/chrispauley/hros_common)
 * GitHub.io: [https://chrispauley.github.io/hros_common/](https://chrispauley.github.io/hros_common/)
 
@@ -59,6 +68,10 @@ This is a sample project for the use of nginx as a proxy server.
 This is a base setup for a Docker image for an ARM implementation which includes a specific build for Node. This is intended to run on a Raspberry Pi.
 * Repo: [https://github.com/chrispauley/docker_pi_node](https://github.com/chrispauley/docker_pi_node)
 
+## schedule-ui
+This is a proof of concept application. It creates and consumes ws-calendar/jcal json strings from calendar components. The project layout uses create-react-app, redux-observables for calls to outside data sources, react-big-calendar for a primary calendar display component.
+* Repo: [https://github.com/chrispauley/schedule-ui](https://github.com/chrispauley/schedule-ui)
+My motivation behind this app is to prove that we can use jcal data types for scheduling features of Assessments and Interviews in HROPEN.
 
 ## HROS Schema Tester Using Webpack
 This tests JSON Schemas via the use of Webpack and the npm package json-schema-loader. Resolves $ref links via the file system.
